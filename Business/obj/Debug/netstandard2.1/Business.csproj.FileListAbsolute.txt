@@ -12,3 +12,5 @@ C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Bu
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Business\obj\Debug\netstandard2.1\Business.dll
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Business\bin\Debug\netstandard2.1\Core.dll
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Business\bin\Debug\netstandard2.1\Core.pdb
