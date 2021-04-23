@@ -68,3 +68,8 @@ C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\Co
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\mkema\OneDrive\Masaüstü\YazılımcıYetiştirmeKampı\ReCapProject\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
